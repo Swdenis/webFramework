@@ -1,9 +1,9 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Alex",
-      "age": 24,
-      "id": 1
+      "age": 81
     },
     {
       "name": "Alex",
@@ -39,6 +39,21 @@
       "name": "Alex",
       "age": 24,
       "id": 8
+    },
+    {
+      "name": "NewUser",
+      "age": 81,
+      "id": 9
+    },
+    {
+      "name": "NewUser",
+      "age": 12,
+      "id": 10
+    },
+    {
+      "name": "NewUser",
+      "age": 12,
+      "id": 11
     }
   ]
 }
