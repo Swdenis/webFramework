@@ -4,6 +4,16 @@
       "id": 1,
       "name": "New name",
       "age": 24
+    },
+    {
+      "id": 2,
+      "name": "New name",
+      "age": 24
+    },
+    {
+      "id": 3,
+      "name": "New name",
+      "age": 24
     }
   ]
 }
